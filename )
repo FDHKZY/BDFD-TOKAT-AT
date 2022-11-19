@@ -1,0 +1,19 @@
+```$nomention
+
+$argsCheck[>1;kime tokat atacaksın ?]
+
+$title[tokat attın]
+
+$color[$random[1;999999]]
+
+$description[
+
+tokat atan kişi : <@$authorID>
+
+tokat atılan kişi : <@$mentioned[1]>
+
+]
+
+$image[https://media.discordapp.net/attachments/962663938233892884/962663981259046942/giphy.gif]
+
+$footer[$username]```
